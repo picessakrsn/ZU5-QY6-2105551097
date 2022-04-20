@@ -3,7 +3,6 @@ package inheritance;
 public class Main {
     public static void main(String[] args) {
 
-        Mobil mobil = new Mobil();
         Kendaraan mobil1 = new Kendaraan();
         mobil1.jenismobil = "SUV";
         mobil1.namamobil = "Daihatsu Terios";
